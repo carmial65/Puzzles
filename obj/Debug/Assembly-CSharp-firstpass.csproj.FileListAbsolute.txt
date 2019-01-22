@@ -1,0 +1,87 @@
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEditor.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEngine.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEngine.UI.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEngine.VR.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\Mono.Cecil.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\Unity.DataContract.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\Unity.CecilTools.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEngine.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEditor.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEngine.UI.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEngine.Analytics.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\Temp\bin\Debug\UnityEngine.VR.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover\obj\Debug\Assembly-CSharp-firstpass.pdb
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEditor.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEngine.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEngine.UI.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEngine.VR.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\Mono.Cecil.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\Unity.DataContract.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\Unity.CecilTools.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEngine.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEditor.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEngine.UI.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEngine.Analytics.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\Temp\bin\Debug\UnityEngine.VR.xml
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\2º animación\Desarollos\Rebenok\Rebenoknew\Mover - copia\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEditor.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEngine.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEngine.xml
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEditor.xml
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\alumno\Desktop\Videojuego REBENOK\Rebenok final\obj\Debug\Assembly-CSharp-firstpass.pdb

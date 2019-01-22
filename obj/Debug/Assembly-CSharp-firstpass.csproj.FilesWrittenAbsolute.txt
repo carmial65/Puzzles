@@ -1,0 +1,149 @@
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/obj/Debug/Assembly-CSharp-firstpass.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/UnityEngine.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/UnityEditor.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/UnityEngine.UI.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/UnityEngine.Networking.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/nunit.framework.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/Mono.Cecil.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/Unity.DataContract.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/ExCSS.Unity.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/Unity.CecilTools.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/obj/Debug/Assembly-CSharp-firstpass.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/UnityEngine.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/UnityEditor.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/nunit.framework.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/UnityEngine.Networking.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/UnityEngine.UI.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/Mono.Cecil.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/Unity.DataContract.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/ExCSS.Unity.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/Unity.CecilTools.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Volumes/CMA_BACKUP/2º animación/Desarollos/Rebenok/Rebenoknew/Mover - copia/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/obj/Debug/Assembly-CSharp-firstpass.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEditor.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.WebModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Unity.Locator.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.UI.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.Networking.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/mscorlib.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/System.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/System.Core.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/System.Xml.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/System.Xml.Linq.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityScript.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/UnityScript.Lang.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Boo.Lang.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Mono.Security.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Unity.Cecil.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Unity.DataContract.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/ExCSS.Unity.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Unity.CecilTools.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Unity.IvyParser.dll
+/Volumes/CMA_BACKUP/Videojuego REBENOK/Rebenok final/Temp/bin/Debug/Unity.IvyParser.dll.mdb

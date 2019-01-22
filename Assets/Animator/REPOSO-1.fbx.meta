@@ -1,0 +1,1199 @@
+fileFormatVersion: 2
+guid: 4fe2ffdec8147f94982c7383796797d3
+timeCreated: 1520446815
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cluster10Handle
+    100002: cluster11Handle
+    100004: cluster12Handle
+    100006: cluster13Handle
+    100008: cluster14Handle
+    100010: cluster15Handle
+    100012: cluster16Handle
+    100014: cluster17Handle
+    100016: cluster18Handle
+    100018: cluster19Handle
+    100020: cluster1Handle
+    100022: cluster20Handle
+    100024: cluster21Handle
+    100026: cluster22Handle
+    100028: cluster23Handle
+    100030: cluster24Handle
+    100032: cluster25Handle
+    100034: cluster2Handle
+    100036: cluster3Handle
+    100038: cluster4Handle
+    100040: cluster5Handle
+    100042: cluster6Handle
+    100044: cluster7Handle
+    100046: cluster8Handle
+    100048: cluster9Handle
+    100050: curve1
+    100052: dientes_abajo
+    100054: dientes_arriba
+    100056: dientes_der
+    100058: dientes_izq
+    100060: ikHandle1
+    100062: joint1
+    100064: joint10
+    100066: joint11
+    100068: joint12
+    100070: joint13
+    100072: joint14
+    100074: joint15
+    100076: joint16
+    100078: joint17
+    100080: joint18
+    100082: joint19
+    100084: joint2
+    100086: joint20
+    100088: joint21
+    100090: joint22
+    100092: joint23
+    100094: joint24
+    100096: joint25
+    100098: joint26
+    100100: joint27
+    100102: joint28
+    100104: joint29
+    100106: joint3
+    100108: joint30
+    100110: joint31
+    100112: joint32
+    100114: joint33
+    100116: joint34
+    100118: joint35
+    100120: joint3_2
+    100122: joint4
+    100124: joint5
+    100126: joint6
+    100128: joint7
+    100130: joint8
+    100132: joint9
+    100134: left1
+    100136: left2
+    100138: nurbsCircle1
+    100140: nurbsCircle10
+    100142: nurbsCircle11
+    100144: nurbsCircle12
+    100146: nurbsCircle13
+    100148: nurbsCircle14
+    100150: nurbsCircle15
+    100152: nurbsCircle16
+    100154: nurbsCircle17
+    100156: nurbsCircle18
+    100158: nurbsCircle19
+    100160: nurbsCircle2
+    100162: nurbsCircle20
+    100164: nurbsCircle21
+    100166: nurbsCircle22
+    100168: nurbsCircle23
+    100170: nurbsCircle24
+    100172: nurbsCircle25
+    100174: nurbsCircle26
+    100176: nurbsCircle27
+    100178: nurbsCircle28
+    100180: nurbsCircle29
+    100182: nurbsCircle3
+    100184: nurbsCircle4
+    100186: nurbsCircle5
+    100188: nurbsCircle6
+    100190: nurbsCircle7
+    100192: nurbsCircle8
+    100194: nurbsCircle9
+    100196: pCone1
+    100198: pCone1 1
+    100200: pCone1 2
+    100202: pCone1 3
+    100204: pCone10
+    100206: pCone10 1
+    100208: pCone10 2
+    100210: pCone10 3
+    100212: pCone11
+    100214: pCone11 1
+    100216: pCone11 2
+    100218: pCone11 3
+    100220: pCone12
+    100222: pCone12 1
+    100224: pCone12 2
+    100226: pCone12 3
+    100228: pCone13
+    100230: pCone13 1
+    100232: pCone13 2
+    100234: pCone13 3
+    100236: pCone14
+    100238: pCone14 1
+    100240: pCone14 2
+    100242: pCone14 3
+    100244: pCone15
+    100246: pCone15 1
+    100248: pCone15 2
+    100250: pCone15 3
+    100252: pCone16
+    100254: pCone16 1
+    100256: pCone16 2
+    100258: pCone16 3
+    100260: pCone17
+    100262: pCone17 1
+    100264: pCone17 2
+    100266: pCone17 3
+    100268: pCone18
+    100270: pCone18 1
+    100272: pCone18 2
+    100274: pCone18 3
+    100276: pCone19
+    100278: pCone19 1
+    100280: pCone19 2
+    100282: pCone19 3
+    100284: pCone2
+    100286: pCone2 1
+    100288: pCone2 2
+    100290: pCone2 3
+    100292: pCone20
+    100294: pCone20 1
+    100296: pCone20 2
+    100298: pCone20 3
+    100300: pCone21
+    100302: pCone21 1
+    100304: pCone21 2
+    100306: pCone21 3
+    100308: pCone3
+    100310: pCone3 1
+    100312: pCone3 2
+    100314: pCone3 3
+    100316: pCone4
+    100318: pCone4 1
+    100320: pCone4 2
+    100322: pCone4 3
+    100324: pCone5
+    100326: pCone5 1
+    100328: pCone5 2
+    100330: pCone5 3
+    100332: pCone6
+    100334: pCone6 1
+    100336: pCone6 2
+    100338: pCone6 3
+    100340: pCone7
+    100342: pCone7 1
+    100344: pCone7 2
+    100346: pCone7 3
+    100348: pCone8
+    100350: pCone8 1
+    100352: pCone8 2
+    100354: pCone8 3
+    100356: pCone9
+    100358: pCone9 1
+    100360: pCone9 2
+    100362: pCone9 3
+    100364: //RootNode
+    100366: right1
+    100368: serpi1
+    100370: serpi2
+    100372: serpiente
+    100374: Slither_Ctrl
+    100376: transform1
+    100378: transform10
+    100380: transform11
+    100382: transform12
+    100384: transform13
+    100386: transform14
+    100388: transform15
+    100390: transform16
+    100392: transform17
+    100394: transform18
+    100396: transform19
+    100398: transform2
+    100400: transform20
+    100402: transform21
+    100404: transform22
+    100406: transform23
+    100408: transform24
+    100410: transform25
+    100412: transform26
+    100414: transform27
+    100416: transform28
+    100418: transform29
+    100420: transform3
+    100422: transform30
+    100424: transform31
+    100426: transform32
+    100428: transform33
+    100430: transform34
+    100432: transform35
+    100434: transform36
+    100436: transform37
+    100438: transform38
+    100440: transform39
+    100442: transform4
+    100444: transform40
+    100446: transform41
+    100448: transform42
+    100450: transform43
+    100452: transform44
+    100454: transform45
+    100456: transform46
+    100458: transform47
+    100460: transform48
+    100462: transform49
+    100464: transform5
+    100466: transform50
+    100468: transform51
+    100470: transform52
+    100472: transform53
+    100474: transform54
+    100476: transform55
+    100478: transform56
+    100480: transform57
+    100482: transform58
+    100484: transform59
+    100486: transform6
+    100488: transform60
+    100490: transform61
+    100492: transform62
+    100494: transform63
+    100496: transform64
+    100498: transform65
+    100500: transform66
+    100502: transform67
+    100504: transform68
+    100506: transform69
+    100508: transform7
+    100510: transform70
+    100512: transform71
+    100514: transform72
+    100516: transform73
+    100518: transform74
+    100520: transform75
+    100522: transform76
+    100524: transform77
+    100526: transform78
+    100528: transform79
+    100530: transform8
+    100532: transform80
+    100534: transform81
+    100536: transform82
+    100538: transform83
+    100540: transform84
+    100542: transform85
+    100544: transform9
+    400000: cluster10Handle
+    400002: cluster11Handle
+    400004: cluster12Handle
+    400006: cluster13Handle
+    400008: cluster14Handle
+    400010: cluster15Handle
+    400012: cluster16Handle
+    400014: cluster17Handle
+    400016: cluster18Handle
+    400018: cluster19Handle
+    400020: cluster1Handle
+    400022: cluster20Handle
+    400024: cluster21Handle
+    400026: cluster22Handle
+    400028: cluster23Handle
+    400030: cluster24Handle
+    400032: cluster25Handle
+    400034: cluster2Handle
+    400036: cluster3Handle
+    400038: cluster4Handle
+    400040: cluster5Handle
+    400042: cluster6Handle
+    400044: cluster7Handle
+    400046: cluster8Handle
+    400048: cluster9Handle
+    400050: curve1
+    400052: dientes_abajo
+    400054: dientes_arriba
+    400056: dientes_der
+    400058: dientes_izq
+    400060: ikHandle1
+    400062: joint1
+    400064: joint10
+    400066: joint11
+    400068: joint12
+    400070: joint13
+    400072: joint14
+    400074: joint15
+    400076: joint16
+    400078: joint17
+    400080: joint18
+    400082: joint19
+    400084: joint2
+    400086: joint20
+    400088: joint21
+    400090: joint22
+    400092: joint23
+    400094: joint24
+    400096: joint25
+    400098: joint26
+    400100: joint27
+    400102: joint28
+    400104: joint29
+    400106: joint3
+    400108: joint30
+    400110: joint31
+    400112: joint32
+    400114: joint33
+    400116: joint34
+    400118: joint35
+    400120: joint3_2
+    400122: joint4
+    400124: joint5
+    400126: joint6
+    400128: joint7
+    400130: joint8
+    400132: joint9
+    400134: left1
+    400136: left2
+    400138: nurbsCircle1
+    400140: nurbsCircle10
+    400142: nurbsCircle11
+    400144: nurbsCircle12
+    400146: nurbsCircle13
+    400148: nurbsCircle14
+    400150: nurbsCircle15
+    400152: nurbsCircle16
+    400154: nurbsCircle17
+    400156: nurbsCircle18
+    400158: nurbsCircle19
+    400160: nurbsCircle2
+    400162: nurbsCircle20
+    400164: nurbsCircle21
+    400166: nurbsCircle22
+    400168: nurbsCircle23
+    400170: nurbsCircle24
+    400172: nurbsCircle25
+    400174: nurbsCircle26
+    400176: nurbsCircle27
+    400178: nurbsCircle28
+    400180: nurbsCircle29
+    400182: nurbsCircle3
+    400184: nurbsCircle4
+    400186: nurbsCircle5
+    400188: nurbsCircle6
+    400190: nurbsCircle7
+    400192: nurbsCircle8
+    400194: nurbsCircle9
+    400196: pCone1
+    400198: pCone1 1
+    400200: pCone1 2
+    400202: pCone1 3
+    400204: pCone10
+    400206: pCone10 1
+    400208: pCone10 2
+    400210: pCone10 3
+    400212: pCone11
+    400214: pCone11 1
+    400216: pCone11 2
+    400218: pCone11 3
+    400220: pCone12
+    400222: pCone12 1
+    400224: pCone12 2
+    400226: pCone12 3
+    400228: pCone13
+    400230: pCone13 1
+    400232: pCone13 2
+    400234: pCone13 3
+    400236: pCone14
+    400238: pCone14 1
+    400240: pCone14 2
+    400242: pCone14 3
+    400244: pCone15
+    400246: pCone15 1
+    400248: pCone15 2
+    400250: pCone15 3
+    400252: pCone16
+    400254: pCone16 1
+    400256: pCone16 2
+    400258: pCone16 3
+    400260: pCone17
+    400262: pCone17 1
+    400264: pCone17 2
+    400266: pCone17 3
+    400268: pCone18
+    400270: pCone18 1
+    400272: pCone18 2
+    400274: pCone18 3
+    400276: pCone19
+    400278: pCone19 1
+    400280: pCone19 2
+    400282: pCone19 3
+    400284: pCone2
+    400286: pCone2 1
+    400288: pCone2 2
+    400290: pCone2 3
+    400292: pCone20
+    400294: pCone20 1
+    400296: pCone20 2
+    400298: pCone20 3
+    400300: pCone21
+    400302: pCone21 1
+    400304: pCone21 2
+    400306: pCone21 3
+    400308: pCone3
+    400310: pCone3 1
+    400312: pCone3 2
+    400314: pCone3 3
+    400316: pCone4
+    400318: pCone4 1
+    400320: pCone4 2
+    400322: pCone4 3
+    400324: pCone5
+    400326: pCone5 1
+    400328: pCone5 2
+    400330: pCone5 3
+    400332: pCone6
+    400334: pCone6 1
+    400336: pCone6 2
+    400338: pCone6 3
+    400340: pCone7
+    400342: pCone7 1
+    400344: pCone7 2
+    400346: pCone7 3
+    400348: pCone8
+    400350: pCone8 1
+    400352: pCone8 2
+    400354: pCone8 3
+    400356: pCone9
+    400358: pCone9 1
+    400360: pCone9 2
+    400362: pCone9 3
+    400364: //RootNode
+    400366: right1
+    400368: serpi1
+    400370: serpi2
+    400372: serpiente
+    400374: Slither_Ctrl
+    400376: transform1
+    400378: transform10
+    400380: transform11
+    400382: transform12
+    400384: transform13
+    400386: transform14
+    400388: transform15
+    400390: transform16
+    400392: transform17
+    400394: transform18
+    400396: transform19
+    400398: transform2
+    400400: transform20
+    400402: transform21
+    400404: transform22
+    400406: transform23
+    400408: transform24
+    400410: transform25
+    400412: transform26
+    400414: transform27
+    400416: transform28
+    400418: transform29
+    400420: transform3
+    400422: transform30
+    400424: transform31
+    400426: transform32
+    400428: transform33
+    400430: transform34
+    400432: transform35
+    400434: transform36
+    400436: transform37
+    400438: transform38
+    400440: transform39
+    400442: transform4
+    400444: transform40
+    400446: transform41
+    400448: transform42
+    400450: transform43
+    400452: transform44
+    400454: transform45
+    400456: transform46
+    400458: transform47
+    400460: transform48
+    400462: transform49
+    400464: transform5
+    400466: transform50
+    400468: transform51
+    400470: transform52
+    400472: transform53
+    400474: transform54
+    400476: transform55
+    400478: transform56
+    400480: transform57
+    400482: transform58
+    400484: transform59
+    400486: transform6
+    400488: transform60
+    400490: transform61
+    400492: transform62
+    400494: transform63
+    400496: transform64
+    400498: transform65
+    400500: transform66
+    400502: transform67
+    400504: transform68
+    400506: transform69
+    400508: transform7
+    400510: transform70
+    400512: transform71
+    400514: transform72
+    400516: transform73
+    400518: transform74
+    400520: transform75
+    400522: transform76
+    400524: transform77
+    400526: transform78
+    400528: transform79
+    400530: transform8
+    400532: transform80
+    400534: transform81
+    400536: transform82
+    400538: transform83
+    400540: transform84
+    400542: transform85
+    400544: transform9
+    4300000: serpi2
+    7400000: Serpi_Idle
+    9500000: //RootNode
+    13700000: serpi2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Serpi_Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: curve1
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3_2
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19/joint20/joint21
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19/joint20/joint21/joint22
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19/joint20/joint21/joint22/joint23
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19/joint20/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: joint1/joint2/joint3_2/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint3
+        weight: 1
+      - path: joint1/joint25
+        weight: 1
+      - path: joint1/joint25/joint34
+        weight: 1
+      - path: joint1/joint25/joint34/joint35
+        weight: 1
+      - path: joint1/joint25/nurbsCircle26
+        weight: 1
+      - path: joint1/joint25/nurbsCircle26/joint28
+        weight: 1
+      - path: joint1/joint25/nurbsCircle26/joint28/joint29
+        weight: 1
+      - path: joint1/joint25/nurbsCircle27
+        weight: 1
+      - path: joint1/joint25/nurbsCircle27/joint32
+        weight: 1
+      - path: joint1/joint25/nurbsCircle27/joint32/joint33
+        weight: 1
+      - path: joint1/joint25/nurbsCircle28
+        weight: 1
+      - path: joint1/joint25/nurbsCircle28/joint30
+        weight: 1
+      - path: joint1/joint25/nurbsCircle28/joint30/joint31
+        weight: 1
+      - path: joint1/joint25/nurbsCircle29
+        weight: 1
+      - path: joint1/joint25/nurbsCircle29/joint26
+        weight: 1
+      - path: joint1/joint25/nurbsCircle29/joint26/joint27
+        weight: 1
+      - path: left1
+        weight: 1
+      - path: left2
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/cluster1Handle
+        weight: 1
+      - path: nurbsCircle2
+        weight: 1
+      - path: nurbsCircle2/cluster2Handle
+        weight: 1
+      - path: nurbsCircle3
+        weight: 1
+      - path: nurbsCircle3/cluster3Handle
+        weight: 1
+      - path: nurbsCircle4
+        weight: 1
+      - path: nurbsCircle4/cluster4Handle
+        weight: 1
+      - path: nurbsCircle5
+        weight: 1
+      - path: nurbsCircle5/cluster5Handle
+        weight: 1
+      - path: nurbsCircle6
+        weight: 1
+      - path: nurbsCircle6/cluster6Handle
+        weight: 1
+      - path: nurbsCircle7
+        weight: 1
+      - path: nurbsCircle7/cluster7Handle
+        weight: 1
+      - path: nurbsCircle8
+        weight: 1
+      - path: nurbsCircle8/cluster8Handle
+        weight: 1
+      - path: nurbsCircle9
+        weight: 1
+      - path: nurbsCircle9/cluster9Handle
+        weight: 1
+      - path: nurbsCircle10
+        weight: 1
+      - path: nurbsCircle10/cluster10Handle
+        weight: 1
+      - path: nurbsCircle11
+        weight: 1
+      - path: nurbsCircle11/cluster11Handle
+        weight: 1
+      - path: nurbsCircle12
+        weight: 1
+      - path: nurbsCircle12/cluster12Handle
+        weight: 1
+      - path: nurbsCircle13
+        weight: 1
+      - path: nurbsCircle13/cluster13Handle
+        weight: 1
+      - path: nurbsCircle14
+        weight: 1
+      - path: nurbsCircle14/cluster14Handle
+        weight: 1
+      - path: nurbsCircle15
+        weight: 1
+      - path: nurbsCircle15/cluster15Handle
+        weight: 1
+      - path: nurbsCircle16
+        weight: 1
+      - path: nurbsCircle16/cluster16Handle
+        weight: 1
+      - path: nurbsCircle17
+        weight: 1
+      - path: nurbsCircle17/cluster17Handle
+        weight: 1
+      - path: nurbsCircle18
+        weight: 1
+      - path: nurbsCircle18/cluster18Handle
+        weight: 1
+      - path: nurbsCircle19
+        weight: 1
+      - path: nurbsCircle19/cluster19Handle
+        weight: 1
+      - path: nurbsCircle20
+        weight: 1
+      - path: nurbsCircle20/cluster20Handle
+        weight: 1
+      - path: nurbsCircle21
+        weight: 1
+      - path: nurbsCircle21/cluster21Handle
+        weight: 1
+      - path: nurbsCircle22
+        weight: 1
+      - path: nurbsCircle22/cluster22Handle
+        weight: 1
+      - path: nurbsCircle23
+        weight: 1
+      - path: nurbsCircle23/cluster23Handle
+        weight: 1
+      - path: nurbsCircle24
+        weight: 1
+      - path: nurbsCircle24/cluster24Handle
+        weight: 1
+      - path: nurbsCircle25
+        weight: 1
+      - path: nurbsCircle25/cluster25Handle
+        weight: 1
+      - path: right1
+        weight: 1
+      - path: serpi1
+        weight: 1
+      - path: serpi1/dientes_abajo
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone1
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone1/transform64
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone2
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone2/transform65
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone3
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone3/transform66
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone4
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone4/transform67
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone5
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone5/transform68
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone6
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone6/transform69
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone7
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone7/transform70
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone8
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone8/transform71
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone9
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone9/transform73
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone10
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone10/transform72
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone11
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone11/transform74
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone12
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone12/transform75
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone13
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone13/transform76
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone14
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone14/transform77
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone15
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone15/transform78
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone16
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone16/transform79
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone17
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone17/transform80
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone18
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone18/transform81
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone19
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone19/transform82
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone20
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone20/transform83
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone21
+        weight: 1
+      - path: serpi1/dientes_abajo/pCone21/transform84
+        weight: 1
+      - path: serpi1/dientes_arriba
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone1 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone1 1/transform1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone2 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone2 1/transform2
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone3 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone3 1/transform3
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone4 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone4 1/transform4
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone5 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone5 1/transform5
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone6 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone6 1/transform6
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone7 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone7 1/transform7
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone8 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone8 1/transform8
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone9 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone9 1/transform10
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone10 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone10 1/transform9
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone11 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone11 1/transform11
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone12 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone12 1/transform12
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone13 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone13 1/transform13
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone14 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone14 1/transform14
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone15 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone15 1/transform15
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone16 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone16 1/transform16
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone17 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone17 1/transform17
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone18 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone18 1/transform18
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone19 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone19 1/transform19
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone20 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone20 1/transform20
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone21 1
+        weight: 1
+      - path: serpi1/dientes_arriba/pCone21 1/transform21
+        weight: 1
+      - path: serpi1/dientes_der
+        weight: 1
+      - path: serpi1/dientes_der/pCone1 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone1 2/transform22
+        weight: 1
+      - path: serpi1/dientes_der/pCone2 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone2 2/transform23
+        weight: 1
+      - path: serpi1/dientes_der/pCone3 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone3 2/transform24
+        weight: 1
+      - path: serpi1/dientes_der/pCone4 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone4 2/transform25
+        weight: 1
+      - path: serpi1/dientes_der/pCone5 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone5 2/transform26
+        weight: 1
+      - path: serpi1/dientes_der/pCone6 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone6 2/transform27
+        weight: 1
+      - path: serpi1/dientes_der/pCone7 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone7 2/transform28
+        weight: 1
+      - path: serpi1/dientes_der/pCone8 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone8 2/transform29
+        weight: 1
+      - path: serpi1/dientes_der/pCone9 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone9 2/transform31
+        weight: 1
+      - path: serpi1/dientes_der/pCone10 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone10 2/transform30
+        weight: 1
+      - path: serpi1/dientes_der/pCone11 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone11 2/transform32
+        weight: 1
+      - path: serpi1/dientes_der/pCone12 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone12 2/transform33
+        weight: 1
+      - path: serpi1/dientes_der/pCone13 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone13 2/transform34
+        weight: 1
+      - path: serpi1/dientes_der/pCone14 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone14 2/transform35
+        weight: 1
+      - path: serpi1/dientes_der/pCone15 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone15 2/transform36
+        weight: 1
+      - path: serpi1/dientes_der/pCone16 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone16 2/transform37
+        weight: 1
+      - path: serpi1/dientes_der/pCone17 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone17 2/transform38
+        weight: 1
+      - path: serpi1/dientes_der/pCone18 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone18 2/transform39
+        weight: 1
+      - path: serpi1/dientes_der/pCone19 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone19 2/transform40
+        weight: 1
+      - path: serpi1/dientes_der/pCone20 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone20 2/transform41
+        weight: 1
+      - path: serpi1/dientes_der/pCone21 2
+        weight: 1
+      - path: serpi1/dientes_der/pCone21 2/transform42
+        weight: 1
+      - path: serpi1/dientes_izq
+        weight: 1
+      - path: serpi1/dientes_izq/pCone1 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone1 3/transform43
+        weight: 1
+      - path: serpi1/dientes_izq/pCone2 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone2 3/transform44
+        weight: 1
+      - path: serpi1/dientes_izq/pCone3 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone3 3/transform45
+        weight: 1
+      - path: serpi1/dientes_izq/pCone4 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone4 3/transform46
+        weight: 1
+      - path: serpi1/dientes_izq/pCone5 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone5 3/transform47
+        weight: 1
+      - path: serpi1/dientes_izq/pCone6 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone6 3/transform48
+        weight: 1
+      - path: serpi1/dientes_izq/pCone7 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone7 3/transform49
+        weight: 1
+      - path: serpi1/dientes_izq/pCone8 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone8 3/transform50
+        weight: 1
+      - path: serpi1/dientes_izq/pCone9 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone9 3/transform52
+        weight: 1
+      - path: serpi1/dientes_izq/pCone10 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone10 3/transform51
+        weight: 1
+      - path: serpi1/dientes_izq/pCone11 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone11 3/transform53
+        weight: 1
+      - path: serpi1/dientes_izq/pCone12 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone12 3/transform54
+        weight: 1
+      - path: serpi1/dientes_izq/pCone13 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone13 3/transform55
+        weight: 1
+      - path: serpi1/dientes_izq/pCone14 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone14 3/transform56
+        weight: 1
+      - path: serpi1/dientes_izq/pCone15 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone15 3/transform57
+        weight: 1
+      - path: serpi1/dientes_izq/pCone16 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone16 3/transform58
+        weight: 1
+      - path: serpi1/dientes_izq/pCone17 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone17 3/transform59
+        weight: 1
+      - path: serpi1/dientes_izq/pCone18 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone18 3/transform60
+        weight: 1
+      - path: serpi1/dientes_izq/pCone19 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone19 3/transform61
+        weight: 1
+      - path: serpi1/dientes_izq/pCone20 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone20 3/transform62
+        weight: 1
+      - path: serpi1/dientes_izq/pCone21 3
+        weight: 1
+      - path: serpi1/dientes_izq/pCone21 3/transform63
+        weight: 1
+      - path: serpi1/serpiente
+        weight: 1
+      - path: serpi1/serpiente/transform85
+        weight: 1
+      - path: serpi2
+        weight: 1
+      - path: Slither_Ctrl
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
